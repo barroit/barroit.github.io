@@ -1,0 +1,7 @@
+barroit.github.io
+=================
+
+This user site acts as a router, listing all docs project sites under barroit's
+account. Each entry links to its own Sphinx-generated page, hosted on a project
+specific GitHub Pages site. No need to open this directly. It serves as a
+landing page for other doc projects.
