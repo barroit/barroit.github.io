@@ -1,0 +1,41 @@
+/* SPDX-License-Identifier: GPL-3.0-or-later */
+
+html {
+	font-family: serif;
+}
+
+body {
+	font-size: 20px;
+}
+
+h1 {
+	font-size: 180%;
+}
+
+h2 {
+	font-size: 150%;
+}
+
+h3 {
+	font-size: 130%;
+}
+
+h4 {
+	font-size: 110%;
+}
+
+body {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+
+	margin: 0 2rem 0 2rem;
+}
+
+header {
+	margin-top: 1rem;
+}
+
+main {
+	max-width: 65rem;
+}
