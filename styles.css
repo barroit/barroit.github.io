@@ -39,3 +39,7 @@ header {
 main {
 	max-width: 65rem;
 }
+
+ul.project-list > li {
+	margin: 1rem 0 1rem 0;
+}
